@@ -1,4 +1,7 @@
+@font-face { font-family: Pixel; src: url('LLPIXEL3.tff'); }
+
 body {background-color:linen;}
+
 h1 {
     color: Black;
     font-family: Pixel;
@@ -18,7 +21,7 @@ h2 {color: DarkGreen;
   z-index: 9999;
   width: 100%;
   height: 50px;
-  background-color: Green;
+  background-color: Red;
   cursor: url('cursor.ico'), default;
 }
 a {
