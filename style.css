@@ -1,15 +1,15 @@
 body {background-color:linen;}
 h1 {
     color: Black;
-    font-family: Tahoma;
+    font-family: Pixel;
     font-size: 200%;}
 p  {
     color: green;
-    font-family: Tahoma;
+    font-family: Pixel;
     font-size: 125%;}
 
 h2 {color: DarkGreen;
-	font-family: Tahoma;
+	font-family: Pixel;
 	font-size: 165%;}
 .fixed-nav-bar {
   position: fixed;
