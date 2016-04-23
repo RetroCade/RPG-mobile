@@ -1,11 +1,11 @@
-body {background-color:linen;}
+body {background-color:Green;}
 
 h1 {
     color: Black;
     font-family: "Courier New", Courier, monospace;
     font-size: 200%;}
 p  {
-    color: green;
+    color: black;
     font-family: "Courier New", Courier, monospace;
     font-size: 125%;}
 
@@ -19,7 +19,7 @@ h2 {color: Light Green;
   z-index: 9999;
   width: 100%;
   height: 50px;
-  background-color: Dark Red;
+  background-color: Red;
   cursor: url('cursor.ico'), default;
 }
 a {
