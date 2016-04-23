@@ -1,18 +1,16 @@
-@font-face { font-family: Pixel; src: url('LLPIXEL3.tff'); }
-
 body {background-color:linen;}
 
 h1 {
     color: Black;
-    font-family: Pixel;
+    font-family: "Courier New", Courier, monospace;
     font-size: 200%;}
 p  {
     color: green;
-    font-family: Pixel;
+    font-family: "Courier New", Courier, monospace;
     font-size: 125%;}
 
-h2 {color: DarkGreen;
-	font-family: Pixel;
+h2 {color: Light Green;
+	font-family: "Courier New", Courier, monospace;
 	font-size: 165%;}
 .fixed-nav-bar {
   position: fixed;
@@ -21,7 +19,7 @@ h2 {color: DarkGreen;
   z-index: 9999;
   width: 100%;
   height: 50px;
-  background-color: Red;
+  background-color: Dark Red;
   cursor: url('cursor.ico'), default;
 }
 a {
