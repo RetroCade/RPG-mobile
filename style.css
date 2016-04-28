@@ -12,7 +12,7 @@ h1 {
 p  {
     color: black;
     font-family: "vt323", sans-serif;
-    font-size: 110%;
+    font-size: 18pt;
 }
 
 h2 {color: Light green;
@@ -27,7 +27,7 @@ h2 {color: Light green;
   height: 45px;
   background-color: #000066;
   cursor: url('cursor.ico'), default;
-  font-size: 10pt;
+  font-size: 14pt;
 }
 a {
     color: black;
