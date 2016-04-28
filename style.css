@@ -36,6 +36,7 @@ a {
 
 body {
 	cursor: url('cursor.ico'), default;
+	line-height: 200%;
 }
 ul	{font-size: 15pt;
 	font-family: "vt323", sans-serif;}
