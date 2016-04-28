@@ -39,4 +39,11 @@ body {
 }
 ul	{font-size: 15pt;
 	font-family: "vt323", sans-serif;}
+	
 hr { background-color: black; height: 1px; border: 0; }
+
+.w3-animate-fading{-webkit-animation:fading 10s infinite;animation:fading 10s infinite}
+
+.w3-content{max-width:980px;margin:auto}
+
+.w3-section{margin-top:16px!important;margin-bottom:16px!important}
