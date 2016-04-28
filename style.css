@@ -12,7 +12,12 @@ h1 {
 p  {
     color: black;
     font-family: "vt323", sans-serif;
-    font-size: 125%;}
+    font-size: 125%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
 
 h2 {color: Light green;
 	font-family: "vt323", sans-serif;
