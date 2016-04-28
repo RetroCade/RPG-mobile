@@ -35,4 +35,5 @@ a {
 body {
 	cursor: url('cursor.ico'), default;
 }
-ul	{font-size: 14pt;}
+ul	{font-size: 15pt;
+	font-family: "vt323", sans-serif;}
