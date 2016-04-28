@@ -42,7 +42,7 @@ ul	{font-size: 15pt;
 	
 hr { background-color: black; height: 1px; border: 0; }
 
-.mpg-animate-fading{-webkit-animation:fading 10s infinite;animation:fading 10s infinite}
+.mpg-animate-fading{-webkit-animation:fading 10s infinite;animation:fading 5s infinite}
 
 .mpg-content{max-width:980px;margin:auto}
 
