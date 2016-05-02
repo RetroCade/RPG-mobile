@@ -11,5 +11,7 @@ Travel through the world, starting in Idaho, on a quest to gather the most menta
 Team members and positions:
 
 Javier (Zane) - Organizer, Game Designer, Music Composition | Started team, and project. Writes code. Writes audio and music.
+
 Clare (Skyler) - Graphic Design | Produces artwork. Includes: Sprites, icon, backgrounds.
+
 Micah (MPG13) - Maintainer | Manages emails, website development, and advertising.
