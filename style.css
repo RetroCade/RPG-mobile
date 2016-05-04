@@ -1,6 +1,10 @@
 @font-face {
     font-family: vt323;
-    src: url(HelveticaNeue-Light.ttf);
+    src: url(mars.ttf);
+}
+@font-face {
+    font-family: ios;
+    src: url(ios.ttf);
 }
 
 body {background-color: #0099ff;}
