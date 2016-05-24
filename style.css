@@ -54,8 +54,9 @@ hr { background-color: black; height: 1px; border: 0; }
 .mpg-section	{margin-top:16px!important;margin-bottom:16px!important}
 
 .styled-select {
-   overflow:hidden;
-   width:350px;
+   overflow: hidden;
+   height: 45px;
+   width: 90vw;
    -moz-border-radius: 9px 9px 9px 9px;
    -webkit-border-radius: 9px 9px 9px 9px;
    border-radius: 9px 9px 9px 9px;
