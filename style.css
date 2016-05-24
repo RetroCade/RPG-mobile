@@ -55,12 +55,12 @@ hr { background-color: black; height: 1px; border: 0; }
 
 .styled-select {
    background: #00ff33;
-   width: 100vw;
+   width: 80vw;
    padding: 5px;
    font-size: 16px;
    line-height: 1;
    border: 0;
    border-radius: 0;
-   height: 34px;
+   height: 45px;
    -webkit-appearance: none;
    }
