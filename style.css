@@ -53,7 +53,7 @@ hr { background-color: black; height: 1px; border: 0; }
 
 .mpg-section	{margin-top:16px!important;margin-bottom:16px!important}
 
-.styled-select select {
+.styled-select {
    background: transparent;
    width: 268px;
    padding: 5px;
