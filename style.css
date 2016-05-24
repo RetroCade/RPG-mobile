@@ -54,13 +54,11 @@ hr { background-color: black; height: 1px; border: 0; }
 .mpg-section	{margin-top:16px!important;margin-bottom:16px!important}
 
 .styled-select {
-   background: #000066;
-   width: 80vw;
-   padding: 5px;
-   font-size: 16px;
-   line-height: 1;
-   border: 0;
-   border-radius: 0;
-   height: 45px;
-   -webkit-appearance: none;
-   }
+   overflow:hidden;
+   width:350px;
+   -moz-border-radius: 9px 9px 9px 9px;
+   -webkit-border-radius: 9px 9px 9px 9px;
+   border-radius: 9px 9px 9px 9px;
+   box-shadow: 1px 1px 11px #330033;
+   background: #58B14C url("http://i62.tinypic.com/15xvbd5.png") no-repeat scroll 319px center;
+}
