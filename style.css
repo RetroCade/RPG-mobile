@@ -55,7 +55,7 @@ hr { background-color: black; height: 1px; border: 0; }
 
 .styled-select {
    background: #00ff33;
-   width: inherit;
+   width: 100vw;
    padding: 5px;
    font-size: 16px;
    line-height: 1;
