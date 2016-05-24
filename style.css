@@ -47,8 +47,20 @@ ul	{font-size: 15pt;
 	
 hr { background-color: black; height: 1px; border: 0; }
 
-.mpg-animate-fading{-webkit-animation:fading 10s infinite;animation:fading 5s infinite}
+.mpg-animate-fading	{-webkit-animation:fading 10s infinite;animation:fading 5s infinite}
 
-.mpg-content{max-width:980px;margin:auto}
+.mpg-content	{max-width:980px;margin:auto}
 
-.mpg-section{margin-top:16px!important;margin-bottom:16px!important}
+.mpg-section	{margin-top:16px!important;margin-bottom:16px!important}
+
+.styled-select select {
+   background: transparent;
+   width: inherit;
+   padding: 5px;
+   font-size: 16px;
+   line-height: 1;
+   border: 0;
+   border-radius: 0;
+   height: 34px;
+   -webkit-appearance: none;
+   }
