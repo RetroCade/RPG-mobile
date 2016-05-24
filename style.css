@@ -55,8 +55,8 @@ hr { background-color: black; height: 1px; border: 0; }
 
 .styled-select {
    overflow: hidden;
-   height: 45px;
-   width: 90vw;
+   height: 40px;
+   width: 97vw;
    -moz-border-radius: 9px 9px 9px 9px;
    -webkit-border-radius: 9px 9px 9px 9px;
    border-radius: 9px 9px 9px 9px;
